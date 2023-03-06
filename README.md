@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://codepen.io/https://codepen.io/melika_haqshenas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/melika_haqshenas" height="30" width="40" /></a>
 <a href="https://twitter.com/https://twitter.com/melikahaq_web" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/melikahaq_web" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/melika haqshenas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="melika haqshenas" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/melika haqshenas](https://www.linkedin.com/in/melika-haqshenas-986b241a3/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="melika haqshenas" height="30" width="40" /></a>
 <a href="https://instagram.com/melika.haqshenas_web" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="melika.haqshenas_web" height="30" width="40" /></a>
 </p>
 
