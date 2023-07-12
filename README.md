@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Melika-haqshenas-web](https://github.com/Melika-haqshenas-web)
 
-- 💬 Ask me about **React, Javascript, BootStrap,Css,Html5**
+- 💬 Ask me about **React, Javascript, BootStrap, Css, Sass, Html5, Tailwind, jQuery, Ajax, PWA **
 
 - 📫 How to reach me **melikahaqshenas.9749@gmail.com**
 
